@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Android and IOS App development
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me GaneshMoorthy@yahoo.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Ganesh
+- ⚡ Fun fact: Coding....
 
 <!---
 GaneshmoorthyMC/GaneshmoorthyMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
